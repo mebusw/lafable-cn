@@ -602,6 +602,7 @@ header[role=banner] {
   background: linear-gradient(to bottom, #ffffff, #8cc2ff);
   height: 225px;
   text-align: center;
+  width: 100%;
 }
 /* line 33, ../scss/main.scss */
 header[role=banner] h1 {
