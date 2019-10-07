@@ -633,13 +633,14 @@ main {
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 2px 6px;
   box-shadow: rgba(0, 0, 0, 0.5) 0 2px 6px;
   background: #fff;
-  width: 980px;
+  /*width: 980px;*/
   margin: -2em auto 1em;
   padding-bottom: 4em;
 }
 /* line 60, ../scss/main.scss */
 main img {
   display: block;
+  width: 100%;
 }
 
 /* line 65, ../scss/main.scss */
