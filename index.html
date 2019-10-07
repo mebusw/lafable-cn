@@ -5,7 +5,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>LAFABLE - Large Agile Framework Appropriate for Big, Lumbering Enterprises - 适合重型企业的大型敏捷框架</title>
   <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
@@ -216,6 +215,24 @@
   <script src="http://cdn.bootcss.com/remodal/1.1.1/remodal.min.js"></script>
   <script src="javascripts/main.js"></script>
 
+  <script>
+   var phoneWidth = parseInt(window.screen.width);
+   var phoneHeight = parseInt(window.screen.height);
+   var phoneScale = phoneWidth/980;//除以的值按手机的物理分辨率
+   var ua = navigator.userAgent;
+   if (/Android (\d+\.\d+)/.test(ua)) {
+     var version = parseFloat(RegExp.$1);
+     // andriod 2.3
+     if (version > 2.3) {
+     document.write('<meta name="viewport" content="width=device-width,initial-scale='+phoneScale+',minimum-scale='+phoneScale+',maximum-scale='+phoneScale+',user-scalable=no">');
+     // andriod 2.3以上
+     } else {
+     document.write('<meta name="viewport" content="width=device-width,user-scalable=no">');
+     }
+   } else { // 其他系统
+    document.write('<meta name="viewport" content="width=device-width, initial-scale='+phoneScale+',minimum-scale='+phoneScale+',maximum-scale ='+phoneScale +',user-scalable=no,">');
+   }
+  </script>
   <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
   <!--<script>
   (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
