@@ -49,12 +49,15 @@
 * release choo choo  
 发布火车啾啾  
 	> On a LAFABLE project, the Release Choo Choo is set in motion during the Planning Phase  
+	> 
 	> 在LAFABLE项目中，发布火车啾啾是在计划阶段启动的  
 	> 
 	> During a project’s strolls, the Release Choo Choo is picking up steam and rumbling down the tracks  
+	> 
 	> 在项目巡游阶段，发布火车啾啾势头越来越猛，一路高歌猛进  
 	> 
 	> During the Stabilization phase, the Release Choo Choo is shown to be a train wreck. Train wreck! The Release Choo Choo goes off track, sliding off the top of the product backlog and crashing into reality  
+	> 
 	> 在稳定阶段，发布火车啾啾被证明是一列失事的火车。火车失事啦！所有人在现实中惊醒，发布火车啾啾早已偏离了产品待办事项列表的轨道
 
 # Planning phase
