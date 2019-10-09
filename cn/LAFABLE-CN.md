@@ -59,26 +59,26 @@
 	> 
 	> During the Stabilization phase, the Release Choo Choo is shown to be a train wreck. Train wreck! The Release Choo Choo goes off track, sliding off the top of the product backlog and crashing into reality  
 	> 
-	> 在稳定阶段，发布火车啾啾被证明是一列失事的火车。火车失事啦！所有人在现实中惊醒，发布火车啾啾早已偏离了产品待办事项列表的轨道
+	> 在稳定阶段，发布火车啾啾被证明是一列失事的火车。火车失事啦！所有人在现实中惊醒，发布火车啾啾早已偏离了产品待办列表的轨道
 
 # Planning phase
 * Backlog of Backlogs  
-待办事项列表的待办事项列表  
+待办列表的待办列表  
 	> Backlog of Backlogs  
-	> 待办事项列表的待办事项列表  
+	> 待办列表的待办列表  
 	> 
 	> There are so many backlogs in LAFABLE that the team maintains a backlog of backlogs just to keep things straight.  
 	> 
-	> 在LAFABLE里有太多的待办事项列表了，团队维护待办事项列表的待办事项列表只是为了让工作清晰一点。
+	> 在LAFABLE里有太多的待办列表了，团队维护待办列表的待办列表只是为了让工作清晰一点。
 	
 * Product Backlog  
-产品待办事项列表 `产品积压列表`  
+产品待办列表 `产品积压列表`  
 	> roduct Backlog  
-	> 产品待办事项列表  
+	> 产品待办列表  
 	> 
 	> The product backlog contains everything the product owner demands be in the product. If a feature is not in the product backlog, LAFABLE rules prevent the product owner from yelling at the team about not getting that feature. Fortunately, another LAFABLE rule allows the product owner to add to the product backlog at any time, including right before yelling at the team.  
 	> 
-	> 产品待办事项列表中包含了产品拥有者对该产品的所有要求。如果某个特性不在产品待办事项列表中，根据LAFABLE的规则，产品拥有者不能因为没有获得该特性而对团队大喊大叫。幸运的是，根据LAFABLE的另一条规则，产品拥有者可以随时向产品待办事项列表中添加内容，哪怕是在对团队大喊大叫之前。
+	> 产品待办列表中包含了产品拥有者对该产品的所有要求。如果某个特性不在产品待办列表中，根据LAFABLE的规则，产品拥有者不能因为没有获得该特性而对团队大喊大叫。幸运的是，根据LAFABLE的另一条规则，产品拥有者可以随时向产品待办列表中添加内容，哪怕是在对团队大喊大叫之前。
 	
 * Team selects Date and scope to be delivered  
 团队`巡游团队`选择交付日期和范围  
@@ -109,22 +109,22 @@
 
 # Strolling phase
 * Team Backlog  
-团队待办事项列表  
+团队待办列表  
 	> Team Backlog  
-	> 团队待办事项列表
+	> 团队待办列表
 	> 
 	> The Team Backlog contains all the items that must be finished during the Stroll. A Team Backlog is created by the project’s Tech Lead who assigns tasks out to other team members while personally retaining the best, most enjoyable tasks.   
 	> 
-	> 团队待办事项列表中包含了巡游过程中所有必须完成的内容。团队待办事项列表是由项目的技术主管创建的，他将任务分配给其他团队成员，同时，自己保留最好，最愉快的任务。
+	> 团队待办列表中包含了巡游过程中所有必须完成的内容。团队待办列表是由项目的技术主管创建的，他将任务分配给其他团队成员，同时，自己保留最好，最愉快的任务。
 		
 * Personal Backlog  
-个人待办事项列表  
+个人待办列表  
 	> Personal Backlog  
-	> 个人待办事项列表  
+	> 个人待办列表  
 	> 
 	> To avoid difficult to manage shared responsibility, each team member has a Personal Backlog of tasks that he or she is personally responsible for. If a team member does not finish all items on his or her Personal Backlog, the team member should not expect help from other team members who are expected to instead jump ahead to work for the next Stroll.  
 	> 
-	> 为了避免对共同责任管理上的困难，每个团队成员都拥有个人待办事项列表，里面都是他/她自己负责的任务。如果某个团队成员没有完成自己的个人待办事项列表中的所有内容，那么他/她不要奢望可以从其他人那里获得帮助，因为其他团队成员会被要求提前开始下一次巡游的工作。
+	> 为了避免对共同责任管理上的困难，每个团队成员都拥有个人待办列表，里面都是他/她自己负责的任务。如果某个团队成员没有完成自己的个人待办列表中的所有内容，那么他/她不要奢望可以从其他人那里获得帮助，因为其他团队成员会被要求提前开始下一次巡游的工作。
 	
 * Pair Managing  
 结对管理  
@@ -194,16 +194,16 @@
 	> 当所有的巡游都结束了，是时候让测试人员参与进来了！在LAFABLE中，所有的测试工作都是在漫长的稳定阶段进行的。不过别担心，也不是很漫长。根据LAFABLE的规则，团队发现和修复所有缺陷所花费的时间不能超过所需时间的一半，从而确保您可以使用一个低质量的发布版本在市场上击败竞争对手。
 	
 * Product Owner's Hidden Agenda Backlog  
-产品拥有者隐藏的待办事项列表  
+产品拥有者隐藏的待办列表  
 	> Product Owner's Hidden Agenda Backlog  
-	> 产品拥有者隐藏的待办事项列表
+	> 产品拥有者隐藏的待办列表
 	> 
 	> LAFABLE teams are told to “embrace change.” A product owner ensures a team’s ability to do this by deliberately holding some requirements back to be introduced later in the project. By introducing important functionality and architectural changes late in a project, a product owner can keep a team prepared for change at any time.  
 	> 
 	> 在LAFABLE中，团队被要求“拥抱变化”。产品拥有者通过故意将一些需求拖到项目后期才引入，来确保团队具备“拥抱变化”的能力。通过在项目后期引入重要的功能和实施架构上的变更，产品拥有者确保团队可以随时应对变化。
 	
 * Fight Over Meaning of Requirments Documents  
-文档中需求真正含义的斗争  
+为文档中需求的真正含义而斗争  
 	> Boxing Gloves  
 	> 拳击手套  
 	> 
@@ -212,9 +212,9 @@
 	> 在LAFABLE中，所有的沟通都是书面的，所有书面文档都需要进行解释，因此，产品拥有者、巡游主管和其他团队成员陷入了三方战斗。这场斗争关系到书面文档中各种形式陈述的最终解释权，因此，无论谁赢得了这场战斗并拥有了最终解释权，都可以对其他人说：“好吧，我知道你可以用你的理解来解释这个需求，但是，我向你保证，那不是它真正的含义。”
 	
 * Rapid Descoping Phase  
-快速缩小范围阶段  
+快速砍需求阶段  
 	> Rapid Descoping Phase  
-	> 快速缩小范围阶段  
+	> 快速砍需求阶段  
 	> 
 	> The important, final phase on a LAFABLE project is the rapid descoping of all features that could not be delivered in the ample time provided to the team.  
 	> 
