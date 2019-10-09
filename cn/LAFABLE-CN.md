@@ -5,7 +5,7 @@
 开发和测试人员  
 	> Developers & Testers  
 	> 开发和测试人员  
-	
+	>    
 	> It is good to have at least a few developers and testers around so that the Product Owner and Stroll Master have people to boss around.  
     
 	> 怎么也得有几名开发和测试人员围绕在产品拥有者和巡游主管的身边，以便让他们拥有老板的感觉。
