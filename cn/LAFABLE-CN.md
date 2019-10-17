@@ -51,7 +51,7 @@
 
 	> On a LAFABLE project, the Release Choo Choo is set in motion during the Planning Phase  
 	> 
-	> 在LAFABLE项目中，发布火车呜呜是在计划阶段启动的  
+	> 在LAFABLE项目中，发布火车呜呜是在规划阶段启动的  
 	> 
 	> During a project’s strolls, the Release Choo Choo is picking up steam and rumbling down the tracks  
 	> 
@@ -105,7 +105,7 @@
 	> 
 	> A deadline for the project is published. Deadlines in LAFABLE are most commonly selected by taking the team’s expected finish date, halving it, and decreasing the unit of measure. In that way, a team that expects to finish in 4 months will be given a deadline of two weeks.   
 	> 
-	> 项目的最后期限公布了。在LAFABLE中，通常是先将团队的预期完成日期砍掉一半，再缩小度量单位来得到最后期限。这样，一个预期在4个月内完成任务的团队将获得2周的交货期限。
+	> 项目的最后期限公布了。在LAFABLE中，通常是先将团队的预期完成时间砍掉一半，再缩小度量单位来得到最后期限。这样，一个预期4个月内完成的任务，团队将获得2周的交货期限。
 
 # Strolling phase
 * Team Backlog  
